@@ -13,3 +13,8 @@ body {
 	left:50%;
 	margin-left:-400px;
 }
+
+#one{
+	padding:20px;
+	border:black 1px solid;
+}
